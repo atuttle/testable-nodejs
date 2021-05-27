@@ -1,0 +1,24 @@
+{
+  "name": "testable-nodejs",
+  "version": "1.0.0",
+  "description": "Wherein I learn to write testable node.js code",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atuttle/testable-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atuttle/testable-nodejs/issues"
+  },
+  "homepage": "https://github.com/atuttle/testable-nodejs#readme",
+  "devDependencies": {
+    "jest": "^27.0.1"
+  }
+}
